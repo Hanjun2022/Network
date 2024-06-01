@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Hasum",
+        "email": "Hs@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Jarok",
+        "email": "JR@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Tom",
+        "email": "TM@gmail.com"
+      },
+      {
+        "id": 4,
+        "name": "Rust",
+        "email": "Rust@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Python",
+        "email": "pt@gmail.com"
+      },
+      {
+        "id": 6,
+        "name": "C++",
+        "email": "c++@gmail.com"
+      }
+    ]
+  }
+  
